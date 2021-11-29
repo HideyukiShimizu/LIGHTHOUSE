@@ -1,5 +1,7 @@
 # LIGHTHOUSE
 This is the repository for the results presented in our manuscript. Please see the <a href='https://github.com/Shimizu-group/LIGHTHOUSE/blob/main/DEMO.ipynb'>DEMO.ipynb</a> file.
+## Dependency
+Anaconda environment, PyTorch, RDkit, subword-nmt
 ## Basic Usage
 ### Initialization
 LIGHTHOUSE.setups()
